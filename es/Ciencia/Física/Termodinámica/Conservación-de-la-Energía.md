@@ -73,4 +73,4 @@ Varios científicos llegaron a la idea casi simultáneamente en la década de 18
 ---
 
 **Idiomas**  
-[English](../../../../en/Science/Physics/Thermodynamics/Conservation-of-Energy.md) · [Español](./Conservación-de-la-Energía.md)
+[English](../../../../en/Science/Physics/Thermodynamics/Conservation-of-Energy.md) · [Español](./Conservación-de-la-Energía.md) · [Français](../../../../fr/Science/Physics/Thermodynamics/Conservation-of-Energy.md) · [日本語](../../../../ja/Science/Physics/Thermodynamics/Conservation-of-Energy.md)

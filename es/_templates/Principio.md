@@ -66,4 +66,4 @@ influences: []
 ---
 
 **Idiomas**  
-[English](../../../en/.../{{equivalent}}.md) · [Español](./{{filename}}.md)
+[English](../../../en/.../{{equivalent}}.md) · [Español](./{{filename}}.md) · [Français](../../../fr/.../{{equivalent}}.md) · [日本語](../../../ja/.../{{equivalent}}.md)

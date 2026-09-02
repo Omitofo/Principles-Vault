@@ -84,4 +84,4 @@ Sadi Carnot (1824) estudió la eficiencia de los motores térmicos. Rudolf Claus
 ---
 
 **Idiomas**  
-[English](../../../../en/Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md) · [Español](./Segundo-Principio-de-la-Termodinámica.md)
+[English](../../../../en/Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md) · [Español](./Segundo-Principio-de-la-Termodinámica.md) · [Français](../../../../fr/Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md) · [日本語](../../../../ja/Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md)

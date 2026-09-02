@@ -77,4 +77,4 @@ Concebido de forma independiente por Charles Darwin y Alfred Russel Wallace. Dar
 ---
 
 **Idiomas**  
-[English](../../../en/Science/Biology/Natural-Selection.md) · [Español](./Selección-Natural.md)
+[English](../../../en/Science/Biology/Natural-Selection.md) · [Español](./Selección-Natural.md) · [Français](../../../fr/Science/Biology/Natural-Selection.md) · [日本語](../../../ja/Science/Biology/Natural-Selection.md)
