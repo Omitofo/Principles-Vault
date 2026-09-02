@@ -4,24 +4,26 @@ Un sistema estructurado para estudiar **principios fundamentales** a través de 
 
 ## Navegación Rápida
 
-- [[00-Índices/Índice-Maestro|Índice Maestro]]
-- [[00-Índices/Por-Dominio|Por Dominio]]
-- [[Meta/Cómo-usar-este-vault|Cómo usar este vault]]
-- [[_templates/Principio|Plantilla de Principio]]
+- [Índice Maestro](00-Índices/Índice-Maestro.md)
+- [Por Dominio](00-Índices/Por-Dominio.md)
+- [Cómo usar este vault](Meta/Cómo-usar-este-vault.md)
+- [Plantilla de Principio](_templates/Principio.md)
 
 ## Dominios Principales
 
 | Dominio | Descripción |
 |---------|-------------|
-| [[Ciencia/README\|Ciencia]] | Física, Química, Biología, Matemáticas, Ciencias de la Tierra, Información |
-| [[Mente-y-Comportamiento/README\|Mente y Comportamiento]] | Psicología, Neurociencia, Ciencia Cognitiva |
-| [[Sistemas-Formales/README\|Sistemas Formales]] | Lógica, Teoría de la Información |
-| [[Dominios-Aplicados/README\|Dominios Aplicados]] | Estrategia y Guerra, Deporte, Arte y Estética, Ingeniería |
+| [Ciencia](Ciencia/README.md) | Física, Química, Biología, Matemáticas, Ciencias de la Tierra, Información |
+| [Mente y Comportamiento](Mente-y-Comportamiento/README.md) | Psicología, Neurociencia, Ciencia Cognitiva |
+| [Sistemas Formales](Sistemas-Formales/README.md) | Lógica, Teoría de la Información |
+| [Dominios Aplicados](Dominios-Aplicados/README.md) | Estrategia y Guerra, Deporte, Arte y Estética, Ingeniería |
 
 ## Idiomas
 
 - [English](../en/README.md)
 - **Español** (actual)
+- [Français](../fr/README.md)
+- [日本語](../ja/README.md)
 
 ---
 

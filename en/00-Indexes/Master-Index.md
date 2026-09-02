@@ -5,14 +5,14 @@ Complete list of all principles in this language, organized by domain.
 ## Science
 
 ### Physics
-- [[Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics|Second Law of Thermodynamics]]
-- [[Science/Physics/Thermodynamics/Conservation-of-Energy|Conservation of Energy]]
+- [Second Law of Thermodynamics](../Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md)
+- [Conservation of Energy](../Science/Physics/Thermodynamics/Conservation-of-Energy.md)
 
 ### Chemistry
 - (Principles will appear here as they are added)
 
 ### Biology
-- [[Science/Biology/Natural-Selection|Natural Selection]]
+- [Natural Selection](../Science/Biology/Natural-Selection.md)
 
 ### Mathematics
 - (Principles will appear here as they are added)
@@ -43,4 +43,4 @@ Complete list of all principles in this language, organized by domain.
 
 ---
 
-**Languages**: [English](./Master-Index.md) · [Español](../../es/00-Índices/Índice-Maestro.md)
+**Languages**: [English](./Master-Index.md) · [Español](../../es/00-Índices/Índice-Maestro.md) · [Français](../../fr/00-Indexes/Master-Index.md) · [日本語](../../ja/00-Indexes/Master-Index.md)

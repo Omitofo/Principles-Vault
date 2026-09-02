@@ -4,24 +4,26 @@ A structured system for studying **fundamental principles** across science, mind
 
 ## Quick Navigation
 
-- [[00-Indexes/Master-Index|Master Index]]
-- [[00-Indexes/By-Domain|By Domain]]
-- [[Meta/How-to-use-this-vault|How to use this vault]]
-- [[_templates/Principle|Principle Template]]
+- [Master Index](00-Indexes/Master-Index.md)
+- [By Domain](00-Indexes/By-Domain.md)
+- [How to use this vault](Meta/How-to-use-this-vault.md)
+- [Principle Template](_templates/Principle.md)
 
 ## Main Domains
 
 | Domain | Description |
 |--------|-------------|
-| [[Science/README\|Science]] | Physics, Chemistry, Biology, Mathematics, Earth Sciences, Information |
-| [[Mind-and-Behavior/README\|Mind & Behavior]] | Psychology, Neuroscience, Cognitive Science |
-| [[Formal-Systems/README\|Formal Systems]] | Logic, Information Theory |
-| [[Applied-Domains/README\|Applied Domains]] | Strategy & Warfare, Sports, Art & Aesthetics, Engineering |
+| [Science](Science/README.md) | Physics, Chemistry, Biology, Mathematics, Earth Sciences, Information |
+| [Mind & Behavior](Mind-and-Behavior/README.md) | Psychology, Neuroscience, Cognitive Science |
+| [Formal Systems](Formal-Systems/README.md) | Logic, Information Theory |
+| [Applied Domains](Applied-Domains/README.md) | Strategy & Warfare, Sports, Art & Aesthetics, Engineering |
 
 ## Languages
 
 - **English** (current)
 - [Español](../es/README.md)
+- [Français](../fr/README.md)
+- [日本語](../ja/README.md)
 
 ---
 
