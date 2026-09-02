@@ -7,6 +7,7 @@ Complete list of all principles in this language, organized by domain.
 ### Physics
 - [Second Law of Thermodynamics](../Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md)
 - [Conservation of Energy](../Science/Physics/Thermodynamics/Conservation-of-Energy.md)
+- [Heisenberg Uncertainty Principle](../Science/Physics/Quantum/Uncertainty-Principle.md)
 
 ### Chemistry
 - (Principles will appear here as they are added)

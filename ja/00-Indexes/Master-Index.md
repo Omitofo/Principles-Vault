@@ -7,6 +7,7 @@
 ### 物理学 (Butsurigaku / Physics)
 - [熱力学第二法則 (Netsurikigaku Dainihōsoku / Second Law of Thermodynamics)](../Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md)
 - [エネルギー保存の法則 (Enerugī Hozon no Hōsoku / Conservation of Energy)](../Science/Physics/Thermodynamics/Conservation-of-Energy.md)
+- [ハイゼンベルクの不確定性原理 (Haizenberuku no Fukakuteisei Genri / Heisenberg Uncertainty Principle)](../Science/Physics/Quantum/Uncertainty-Principle.md)
 
 ### 化学 (Kagaku / Chemistry)
 - （原理は追加され次第ここに表示されます）

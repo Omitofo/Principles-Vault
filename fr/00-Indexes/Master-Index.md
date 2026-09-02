@@ -7,6 +7,7 @@ Liste complète de tous les principes dans cette langue, organisés par domaine.
 ### Physique
 - [Deuxième principe de la thermodynamique](../Science/Physics/Thermodynamics/Second-Law-of-Thermodynamics.md)
 - [Conservation de l'énergie](../Science/Physics/Thermodynamics/Conservation-of-Energy.md)
+- [Principe d'incertitude de Heisenberg](../Science/Physics/Quantum/Uncertainty-Principle.md)
 
 ### Chimie
 - (Les principes apparaîtront ici au fur et à mesure)

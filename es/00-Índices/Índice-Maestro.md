@@ -7,6 +7,7 @@ Lista completa de todos los principios en este idioma, organizados por dominio.
 ### Física
 - [Segundo Principio de la Termodinámica](../Ciencia/Física/Termodinámica/Segundo-Principio-de-la-Termodinámica.md)
 - [Conservación de la Energía](../Ciencia/Física/Termodinámica/Conservación-de-la-Energía.md)
+- [Principio de Incertidumbre de Heisenberg](../Ciencia/Física/Cuántica/Principio-de-Incertidumbre.md)
 
 ### Química
 - (Los principios aparecerán aquí a medida que se añadan)
