@@ -41,6 +41,8 @@
 ### スポーツパフォーマンス (Supōtsu Pafōmansu / Sports Performance)
 ### 芸術と美学 (Geijutsu to Bigaku / Art & Aesthetics)
 ### 工学とデザイン (Kōgaku to Dezain / Engineering & Design)
+### マーケティング (Māketēingu / Marketing)
+- [社会的証明 (Shakaiteki Shōmei / Social Proof)](../Applied-Domains/Marketing/Social-Proof.md)
 
 ---
 

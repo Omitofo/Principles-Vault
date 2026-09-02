@@ -41,6 +41,8 @@ Complete list of all principles in this language, organized by domain.
 ### Sports Performance
 ### Art & Aesthetics
 ### Engineering & Design
+### Marketing
+- [Social Proof](../Applied-Domains/Marketing/Social-Proof.md)
 
 ---
 

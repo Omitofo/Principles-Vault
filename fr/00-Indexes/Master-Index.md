@@ -41,6 +41,8 @@ Liste complète de tous les principes dans cette langue, organisés par domaine.
 ### Performance sportive
 ### Art et Esthétique
 ### Ingénierie et Design
+### Marketing
+- [Preuve sociale](../Applied-Domains/Marketing/Social-Proof.md)
 
 ---
 

@@ -41,6 +41,8 @@ Lista completa de todos los principios en este idioma, organizados por dominio.
 ### Rendimiento Deportivo
 ### Arte y Estética
 ### Ingeniería y Diseño
+### Marketing
+- [Prueba Social](../Dominios-Aplicados/Marketing/Prueba-Social.md)
 
 ---
 
