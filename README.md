@@ -1,6 +1,6 @@
 # Principles Vault
 
-A bilingual (English / Español) knowledge system focused exclusively on **fundamental principles** across domains.
+A multilingual knowledge system focused exclusively on **fundamental principles** across domains.
 
 Each language contains a **complete, independent copy** of the entire system.
 
@@ -8,6 +8,8 @@ Each language contains a **complete, independent copy** of the entire system.
 
 - **[English](en/README.md)**
 - **[Español](es/README.md)**
+- **[Français](fr/README.md)**
+- **[日本語 (Japanese)](ja/README.md)**
 
 ---
 
@@ -18,6 +20,7 @@ Each language contains a **complete, independent copy** of the entire system.
 - Strong internal linking + cross-language links
 - Scalable forever without restructuring
 - Works perfectly in Obsidian and on GitHub
+- Standard Markdown links only (no wikilinks)
 
 ### How to use
 
