@@ -8,6 +8,7 @@
 - [スポーツパフォーマンス (Supōtsu Pafōmansu)](Sports-Performance/README.md)
 - [芸術と美学 (Geijutsu to Bigaku)](Art-Aesthetics/README.md)
 - [工学とデザイン (Kōgaku to Dezain)](Engineering-Design/README.md)
+- [マーケティング (Māketēingu)](Marketing/README.md)
 
 ---
 

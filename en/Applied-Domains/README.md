@@ -8,6 +8,7 @@ Principles applied to practical human domains.
 - [Sports Performance](Sports-Performance/README.md)
 - [Art & Aesthetics](Art-Aesthetics/README.md)
 - [Engineering & Design](Engineering-Design/README.md)
+- [Marketing](Marketing/README.md)
 
 ---
 

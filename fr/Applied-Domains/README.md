@@ -8,6 +8,7 @@ Principes appliqués à des domaines pratiques humains.
 - [Performance sportive](Sports-Performance/README.md)
 - [Art et Esthétique](Art-Aesthetics/README.md)
 - [Ingénierie et Design](Engineering-Design/README.md)
+- [Marketing](Marketing/README.md)
 
 ---
 
