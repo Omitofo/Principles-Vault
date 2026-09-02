@@ -3,32 +3,32 @@
 Vista rápida de la estructura jerárquica.
 
 ## Ciencia
-- [[Ciencia/Física/README|Física]]
+- [Física](../Ciencia/Física/README.md)
   - Mecánica Clásica
   - Termodinámica
   - Relatividad
   - Cuántica
-- [[Ciencia/Química/README|Química]]
-- [[Ciencia/Biología/README|Biología]]
-- [[Ciencia/Matemáticas/README|Matemáticas]]
-- [[Ciencia/Ciencias-de-la-Tierra/README|Ciencias de la Tierra]]
-- [[Ciencia/Informática-y-Teoría-de-la-Información/README|Informática y Teoría de la Información]]
+- [Química](../Ciencia/Química/README.md)
+- [Biología](../Ciencia/Biología/README.md)
+- [Matemáticas](../Ciencia/Matemáticas/README.md)
+- [Ciencias de la Tierra](../Ciencia/Ciencias-de-la-Tierra/README.md)
+- [Informática y Teoría de la Información](../Ciencia/Informática-y-Teoría-de-la-Información/README.md)
 
 ## Mente y Comportamiento
-- [[Mente-y-Comportamiento/Psicología/README|Psicología]]
-- [[Mente-y-Comportamiento/Neurociencia/README|Neurociencia]]
-- [[Mente-y-Comportamiento/Ciencia-Cognitiva/README|Ciencia Cognitiva]]
+- [Psicología](../Mente-y-Comportamiento/Psicología/README.md)
+- [Neurociencia](../Mente-y-Comportamiento/Neurociencia/README.md)
+- [Ciencia Cognitiva](../Mente-y-Comportamiento/Ciencia-Cognitiva/README.md)
 
 ## Sistemas Formales
-- [[Sistemas-Formales/Lógica/README|Lógica]]
-- [[Sistemas-Formales/Teoría-de-la-Información/README|Teoría de la Información]]
+- [Lógica](../Sistemas-Formales/Lógica/README.md)
+- [Teoría de la Información](../Sistemas-Formales/Teoría-de-la-Información/README.md)
 
 ## Dominios Aplicados
-- [[Dominios-Aplicados/Estrategia-y-Guerra/README|Estrategia y Guerra]]
-- [[Dominios-Aplicados/Rendimiento-Deportivo/README|Rendimiento Deportivo]]
-- [[Dominios-Aplicados/Arte-y-Estética/README|Arte y Estética]]
-- [[Dominios-Aplicados/Ingeniería-y-Diseño/README|Ingeniería y Diseño]]
+- [Estrategia y Guerra](../Dominios-Aplicados/Estrategia-y-Guerra/README.md)
+- [Rendimiento Deportivo](../Dominios-Aplicados/Rendimiento-Deportivo/README.md)
+- [Arte y Estética](../Dominios-Aplicados/Arte-y-Estética/README.md)
+- [Ingeniería y Diseño](../Dominios-Aplicados/Ingeniería-y-Diseño/README.md)
 
 ---
 
-**Idiomas**: [English](../../en/00-Indexes/By-Domain.md) · [Español](./Por-Dominio.md)
+**Idiomas**: [English](../../en/00-Indexes/By-Domain.md) · [Español](./Por-Dominio.md) · [Français](../../fr/00-Indexes/By-Domain.md) · [日本語](../../ja/00-Indexes/By-Domain.md)

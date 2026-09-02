@@ -28,10 +28,10 @@ Es una colección enfocada en **principios fundamentales** — las reglas profun
 
 ## Convenciones de enlaces
 
-- Los enlaces internos usan wikilinks de Obsidian: `[[Nombre del Principio]]`
+- Los enlaces internos usan Markdown estándar: `[texto](ruta/relativa.md)`
 - Los enlaces entre idiomas usan Markdown relativo
 - Las etiquetas se usan para filtrado adicional
 
 ---
 
-**Idiomas**: [English](../../en/Meta/How-to-use-this-vault.md) · [Español](./Cómo-usar-este-vault.md)
+**Idiomas**: [English](../../en/Meta/How-to-use-this-vault.md) · [Español](./Cómo-usar-este-vault.md) · [Français](../../fr/Meta/How-to-use-this-vault.md) · [日本語](../../ja/Meta/How-to-use-this-vault.md)
